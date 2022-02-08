@@ -1,0 +1,14 @@
+let us take a=10 , b=5
+by using of comparision operators we working on taking two inputs
+less than='<'='a<b'='10<5'
+false
+greater than='>'='a>b'='10>5'
+true
+greater than equal to='>='='a>=b'='10>=5'
+true
+less than equal to='<='='a<=b'='10<=5'
+false
+equal to equal to = '==' = 'a==b' = '10==5'
+false
+not equal to = '!=' = 'a!=b' = '10!=5'
+true
